@@ -10,7 +10,6 @@
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Patil 2104](https://github.com/patil2104)
-- [Laaaaksh](https://github.com/Laaaaksh)
 - [Avicii_029](https://github.com/avicii029)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
@@ -2840,5 +2839,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [roatgrammer](https://github.com/roastgrammer)
 - [Muthulakshimi](https://github.com/Muthulakshimi)'
 - [Iqbal Nugraha](https://github.com/iqballa24)
+- [Musa Jarju](https://github.com/Fathermusa)
 
 <!-- prettier-ignore-end -->
